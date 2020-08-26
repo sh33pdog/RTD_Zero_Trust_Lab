@@ -6,7 +6,7 @@ In this section you will configure a single User Identity using Active Directory
 Task - Configure Active Directory AAA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Enter **"ad"** for the name
+#. Enter **AD** for the name
 #. Ensure the Authentication Type is **AAA**
 #. Ensure the Choose Authentication Server Type is set to **Active Directory**
 #. Select **prebuilt-ad-servers** from the Choose Authentication Server dropdown box
