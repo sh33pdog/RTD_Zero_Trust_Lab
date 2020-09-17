@@ -19,7 +19,7 @@ Task - Create a virtual server
 
    |image9|
 
-#. In the **Server SSL Profile** section, move the **serverssl** SSL Profile to the **Selected** side (select item and then click the right-arrow)
+#. Click **Show Advanced** In the **Server SSL Profile** section, move the **serverssl** SSL Profile to the **Selected** side (select item and then click the right-arrow)
 #. Click **Save & Next**
 
    |image10|
