@@ -8,7 +8,7 @@ Task - Access basic.acme.com
 
 .. NOTE:: Posture Assessments in a Per-Request Policy use F5 Access Guard(running on clients) to perform posture assessments prior to accessing an application.  This improves the user experience since posture checks do not introduce any delay when accessing the application. This also improves security by allowing posture assessments to occur continuously throughout the life of the session.
 
-#. From the jumpbox, browse to https://basic-iap.acme.com
+#. From the jumpbox, browse to https://basic.acme.com
 #. At the logon page enter the Username:**user1** and Password:**user1**
 #. Click **Logon**
 
