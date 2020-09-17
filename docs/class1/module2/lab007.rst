@@ -35,7 +35,7 @@ Task - Login to header.acme.com using user1
 Task - Login to header.acme.com using user2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Open a new browser window.
+#. Open a new browser window (You may need to use incognito mode if the browser caches your credentials).
 #. Access the site https://header.acme.com
 #. At the logon page enter the Username: **user2** and Password: **user2**
 #. Click **Logon**
